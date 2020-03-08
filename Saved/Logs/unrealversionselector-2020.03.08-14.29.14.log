@@ -1,0 +1,3 @@
+Discovering modules, targets and source code for project...
+@progress 'Binding IntelliSense data...' 0%
+ERROR: Windows SDK v8.1 must be installed in order to build this target.
